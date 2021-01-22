@@ -9,3 +9,9 @@ My research on identity questions our current understanding around diversity, se
 
 Email:  [ar687@cornell.edu]()
 
+~~~
+<div class="py2 post-footer">
+  <img src="/assets/AndaleebRahman-headshot.jpg" alt="Andaleeb Rahman" class="avatar" />
+  </p>
+</div>
+~~~
