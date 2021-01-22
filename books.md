@@ -1,4 +1,7 @@
-# Transforming Food Systems for a Rising India
+
+# Books
+
+## Transforming Food Systems for a Rising India
 
 *Available as open access* [here](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-14409-8%23toc&sa=D&sntz=1&usg=AFQjCNEPJ5WfJaWfOfkhc_C18V-CYsno0Q)
 
@@ -16,9 +19,9 @@ Over the last decade, increases in per capita incomes, greater urbanization rate
 
 
 
-# Safety Nets
+## Safety Nets
 
-**The Future of India’s Welfare State [\*under contract with Palgrave\*]**
+**The Future of India’s Welfare State [*under contract with Palgrave*]**
 
 *Andaleeb Rahman, Aditya Srinivas, and Prabhu Pingali*
 
@@ -28,7 +31,7 @@ The efficacy of the current set of programs, and potential innovations in them t
 
 A number of key question, yet, remain unaddressed when one tries to address how can the current set of social policies be transformed in an emerging economy, as diverse as India. How *can safety nets be designed which not only serve a vast rural population but also cater to the rising urban poor? How can one sure that these schemes, which cater to such large and diverse population not subjected to errors of targeting? Most importantly, are these schemes a palliative cure or a tool for furthering India towards a long-term trajectory of resilient development? How does politics influence the idea of welfare in India? Is their sufficient state capacity to bring about improved governance and institutional reforms to create a semblance of welfare regime?*
 
-***The book contributes in the following way**:*
+**The book contributes in the following way**:
 
 Previous research on India’s safety net system has been limited to studying the various programs in isolation. There is a substantial body of work which has studied the impact of nutritional assistance programs like ICDS, in-kind food subsidies through PDS or general equilibrium effects of employment guarantee scheme, MGNREGS. However, a holistic perspective of India’s design of safety nets, its aim, scope, synergies and relevance for a rising India is largely missing in the literature. By focusing on individual programs, the extant scholarship may have “missed the forest for the trees”. The human development challenge in India, similar to most contexts, is not only a manifestation of poverty but is also associated with a wide variety of institutional factors, across an individual’s life cycle. As a result, the efficacy of safety net programs should be studied through its impact on the multifaceted aspects of human development – from maternal health, child nutrition, school enrolment and learning outcomes to livelihoods and wages at each stage of life. We therefore study the genesis of India’s safety net programs, that emerged as a result of immediate needs of the time, and examine its relevance to the present and future needs.
 
