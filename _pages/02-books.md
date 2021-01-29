@@ -3,7 +3,7 @@ layout: page
 permalink: /books/
 title: books
 description: Books that I have written
-order: 3
+order: 2
 nav: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-order: 1
+order: 0
 permalink: /
 description: <a href="#">Researcher, TCI Cornell University</a>.
 
